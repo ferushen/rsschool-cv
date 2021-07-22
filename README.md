@@ -1,1 +1,0 @@
-https://ferushen.github.io/rsschool-cv/cv
