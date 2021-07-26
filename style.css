@@ -1,0 +1,28 @@
+h1 {
+    margin: 40px 0 0 70px;
+    font-size: 32px;
+    color: #350666;
+}
+
+p {
+    margin: 0;
+    line-height: 26px;   
+}
+
+.center { 
+    margin: auto;
+    padding: 10px;
+    width: 740px;
+}
+
+.main-text {
+    margin-left: 25px;
+    margin-right: 25px;
+    font: 16px "Courier New", monospace;
+}
+
+.title-text {
+    padding: 0;
+    margin: 55px 25px 25px 25px;
+    font: bold 18px "Courier New", monospace;
+}
