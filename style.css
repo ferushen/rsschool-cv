@@ -26,3 +26,18 @@ p {
     margin: 55px 25px 25px 25px;
     font: bold 18px "Courier New", monospace;
 }
+
+.td-left {
+    padding-left: 40px;
+    border-left: 2px solid #C79AFF;
+}
+
+.td-stars {
+    padding-left: 30px;
+    padding-right: 40px;
+}
+
+.td-left-b {
+    padding-left: 40px;
+    font-weight: bold;
+}
