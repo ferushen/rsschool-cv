@@ -25,4 +25,4 @@ Master's degree
 
 ### Additional information ###
 * English language: **A2**
-* https://ferushen.github.io/rsschool-cv/cv
+* https://ferushen.github.io/rsschool-cv/
